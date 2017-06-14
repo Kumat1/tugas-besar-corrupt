@@ -18,7 +18,7 @@ public class BattleTank extends Applet implements Runnable
   final double	collisionrange = 7;
   final double	blockers[] = {	0,24, 400, 30,		// Upper wall
 				0,24, 6, 336,		// Left wall
-				394,24, 400,336,	// Right wall
+				394,24, 400,336,
 				0,330, 400,336,		// Bottom Wall
                 100,177, 300,183,
 				100,150, 106,210,
