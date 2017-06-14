@@ -20,7 +20,7 @@ public class BattleTank extends Applet implements Runnable
 				0,24, 6, 336,		// Left wall
 				394,24, 400,336,	// Right wall
 				0,330, 400,336,		// Bottom Wall
-                100,177, 300,183,	// Center block
+                100,177, 300,183,
 				100,150, 106,210,
 				294,150, 300,210,
 				150,70, 250, 76,
