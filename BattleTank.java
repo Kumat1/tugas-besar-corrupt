@@ -17,7 +17,7 @@ public class BattleTank extends Applet implements Runnable
   final double	tankpoly_y[] = { -8, -8, -4, -4, -10, -10, -4, -4, -8, -8, 8, 8, 4, 4, 8, 8 };
   final double	collisionrange = 7;
   final double	blockers[] = {	0,24, 400, 30,		// Upper wall
-				0,24, 6, 336,		// Left wall
+				0,24, 6, 336,
 				394,24, 400,336,
 				0,330, 400,336,
                 100,177, 300,183,
